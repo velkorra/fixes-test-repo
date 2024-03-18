@@ -15,8 +15,6 @@ bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
-secret.txt
-
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
